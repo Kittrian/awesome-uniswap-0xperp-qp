@@ -110,6 +110,7 @@ To learn more about alternative AMM designs and research refer to [awesome-amm](
 - [Arrakis](https://arrakis.finance/vaults)
 - [Yewbow](https://www.yewbow.org/)
 - [APY vision](https://app.apy.vision/)
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - [Ranges finance](https://ranges.fi/#/?chain=mainnet)
 - [Defi Lab](https://defi-lab.xyz/uniswapv3simulator)
 - [Uniswap Fish](https://uniswap.fish/)
